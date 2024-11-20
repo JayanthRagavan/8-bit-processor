@@ -8,11 +8,13 @@ Program Counter (PC): Manage the execution flow of the program by keeping track 
 Instruction Set: A simple set of instructions to demonstrate processor operations.
 Basic Memory Management: Load and store operations for managing data in memory.
 Clock Cycle Simulation: Emulate clock cycles to represent the execution of instructions.
+
 Goals
 Educational Purpose: Designed to help students and enthusiasts learn about processor architecture and how processors handle data and instructions.
 Simple Instruction Set Architecture (ISA): Implementing a basic set of instructions to demonstrate processor functionality.
 Hands-on Experience: Provide an opportunity to work directly with processor operations, registers, memory, and control flow.
 Extendable Architecture: The processor is designed in a way that can be expanded to include more complex operations and features.
+
 Future Directions
 Expand Instruction Set: Add more complex instructions such as division, multiplication, and branching operations.
 Integrate I/O Operations: Implement input and output functionalities, allowing interaction with external systems.
